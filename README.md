@@ -9,10 +9,14 @@ https://docs.ghost.org/install/local/
 
 ### generate new project (empty directory)
 `mkdir new-project && cd new-project`
+
 `ghost install local`
 
 ### commands
 `ghost stop`
+
 `ghost start`
+
 `ghost log`
+
 `ghost ls`
